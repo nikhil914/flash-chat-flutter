@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "888069303751",
+    "firebase_url": "https://flash-chat-be7a9.firebaseio.com",
+    "project_id": "flash-chat-be7a9",
+    "storage_bucket": "flash-chat-be7a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888069303751:android:02a195e6d7c345ce",
+        "android_client_info": {
+          "package_name": "co.NikBase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888069303751-38vi1cq92a6bghrihp6u0ml567480rs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWBpydm9XzuG4J94VX0n45k__Lofn8hy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888069303751-38vi1cq92a6bghrihp6u0ml567480rs9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
